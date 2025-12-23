@@ -102,7 +102,7 @@ export const ChatView = ({ onBack }: ChatViewProps) => {
           <div className="w-20 h-20 mx-auto mb-4 rounded-full bg-muted flex items-center justify-center">
             <Phone className="w-10 h-10 text-muted-foreground" />
           </div>
-          <h2 className="text-xl font-semibold text-foreground mb-2">WhatsApp Web</h2>
+          <h2 className="text-xl font-semibold text-foreground mb-2">MessageX-Whatsapp Web</h2>
           <p className="text-muted-foreground text-sm max-w-sm">
             Send and receive messages without keeping your phone online.
           </p>

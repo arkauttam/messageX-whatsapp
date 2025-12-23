@@ -176,7 +176,7 @@ const Settings = () => {
 
         {/* App Info */}
         <div className="p-4 text-center text-sm text-muted-foreground">
-          <p>WhatsApp Clone Demo</p>
+          <p>messageX-whatsapp Clone Demo</p>
           <p className="text-xs mt-1">Version 1.0.0</p>
         </div>
       </div>

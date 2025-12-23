@@ -92,7 +92,7 @@ const Calls = () => {
         </div>
         <div className="flex-1">
           <p className="font-medium">Create call link</p>
-          <p className="text-sm text-muted-foreground">Share a link for your WhatsApp call</p>
+          <p className="text-sm text-muted-foreground">Share a link for your messageX-whatsapp call</p>
         </div>
       </div>
       

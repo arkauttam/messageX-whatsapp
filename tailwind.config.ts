@@ -60,7 +60,7 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
-        // WhatsApp specific
+        // messageX-whatsapp specific
         "chat-bg": "hsl(var(--chat-bg))",
         "chat-pattern": "hsl(var(--chat-pattern))",
         "bubble-sent": "hsl(var(--bubble-sent))",

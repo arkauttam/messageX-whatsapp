@@ -8,7 +8,7 @@
 
 @layer base {
   :root {
-    /* WhatsApp-inspired color palette */
+    /* messageX-whatsapp-inspired color palette */
     --background: 0 0% 93%;
     --foreground: 0 0% 13%;
 
@@ -18,7 +18,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 0 0% 13%;
 
-    /* WhatsApp Green */
+    /* messageX-whatsapp Green */
     --primary: 142 70% 45%;
     --primary-foreground: 0 0% 100%;
 

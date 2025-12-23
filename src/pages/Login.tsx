@@ -71,7 +71,7 @@ const Login = () => {
             <MessageCircle className="w-10 h-10 text-primary-foreground" />
           </div>
           <h1 className="text-3xl font-semibold text-primary-foreground mb-2">
-            WhatsApp
+            MessageX-Whatsapp
           </h1>
           <p className="text-primary-foreground/80 text-sm">
             Simple. Secure. Reliable messaging.
