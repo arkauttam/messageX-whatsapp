@@ -18,7 +18,7 @@ export default defineConfig(() => ({
     host: "0.0.0.0",
     port: 3000,
     allowedHosts: [
-      "salesflow-dashboard.onrender.com",
+      "messagex-whatsapp.onrender.com",
     ],
   },
 }));
